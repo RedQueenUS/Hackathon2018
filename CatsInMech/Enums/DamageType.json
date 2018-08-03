@@ -1,0 +1,15 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "Kinetic" },
+  { "id": 2, "name": "Cold" },
+  { "id": 3, "name": "Fire" },
+  { "id": 4, "name": "Electrical" },
+  { "id": 5, "name": "Caustic" },
+  { "id": 6, "name": "Sonic" },
+  { "id": 7, "name": "Singularity" },
+  { "id": 8, "name": "Explosive" },
+  { "id": 9, "name": "EMP" },
+  { "id": 10, "name": "Interdimensional" },
+  { "id": 11, "name": "Energy" },
+  { "id": 12, "name": "Linked" }
+]

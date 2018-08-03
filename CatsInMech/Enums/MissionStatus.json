@@ -1,0 +1,5 @@
+[
+  { "id": 0, "name": "Locked" },
+  { "id": 10, "name": "Unlocked" },
+  { "id": 20, "name": "Completed" }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "Locked" },
+  { "id": 2, "name": "New" },
+  { "id": 3, "name": "Active" },
+  { "id": 4, "name": "ReadyToGiveReward" },
+  { "id": 5, "name": "Completed" },
+  { "id": 6, "name": "Abandonded" },
+  { "id": 7, "name": "WaitingForPlayerToCollect" }
+]

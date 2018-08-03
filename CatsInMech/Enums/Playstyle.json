@@ -1,0 +1,16 @@
+[
+  { "id": -1, "name": "None" },
+  { "id": 0, "name": "All" },
+  { "id": 1, "name": "Assault" },
+  { "id": 2, "name": "Stealth" },
+  { "id": 3, "name": "Engineering" },
+  { "id": 10, "name": "Crafter" },
+  { "id": 11, "name": "Munchkin" },
+  { "id": 12, "name": "Looter" },
+  { "id": 20, "name": "StoryTeller" },
+  { "id": 21, "name": "Cartographer" },
+  { "id": 22, "name": "Completionist" },
+  { "id": 30, "name": "Cooperative" },
+  { "id": 31, "name": "Compassionate" },
+  { "id": 32, "name": "Nostalgic" }
+]

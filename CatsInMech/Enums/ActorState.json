@@ -1,0 +1,16 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "All" },
+  { "id": 1000, "name": "Frozen" },
+  { "id": 1001, "name": "Shattered" },
+  { "id": 1010, "name": "Burning" },
+  { "id": 1011, "name": "Melting" },
+  { "id": 1020, "name": "Corroded" },
+  { "id": 1021, "name": "Disentigrating" },
+  { "id": 1030, "name": "Shaking" },
+  { "id": 1031, "name": "Convulsing" },
+  { "id": 1040, "name": "Electified" },
+  { "id": 1041, "name": "Discharging" },
+  { "id": 1050, "name": "Supressed" },
+  { "id": 1051, "name": "Crushed" }
+]

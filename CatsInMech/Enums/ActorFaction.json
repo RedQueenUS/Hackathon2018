@@ -1,0 +1,7 @@
+[
+  { "id": -100, "name": "None" },
+  { "id": -2, "name": "Secret" },
+  { "id": 0, "name": "Enemy" },
+  { "id": 1, "name": "Civilian" },
+  { "id": 2, "name": "Player" }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "NoInputPopUp" },
+  { "id": 2, "name": "NotImplemented__InputPopUp" },
+  { "id": 3, "name": "NotImplemented__FullDialog" }
+]

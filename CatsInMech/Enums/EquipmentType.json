@@ -1,0 +1,9 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "Armor" },
+  { "id": 10, "name": "Utility" },
+  { "id": 11, "name": "Fang" },
+  { "id": 20, "name": "Weapon" },
+  { "id": 50, "name": "ShieldMod" },
+  { "id": 60, "name": "Shield" }
+]

@@ -1,0 +1,10 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "Stormcat" },
+  { "id": 2, "name": "Panthrak" },
+  { "id": 3, "name": "Lynxus" },
+  { "id": 4, "name": "Cougaro" },
+  { "id": 5, "name": "Tigertron" },
+  { "id": 6, "name": "Lionoc" },
+  { "id": 100, "name": "All" }
+]

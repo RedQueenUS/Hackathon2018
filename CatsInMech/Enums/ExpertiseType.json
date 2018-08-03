@@ -1,0 +1,6 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "Genus" },
+  { "id": 2, "name": "Species" },
+  { "id": 4, "name": "Playstyle" }
+]

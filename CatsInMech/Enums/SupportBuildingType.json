@@ -1,0 +1,14 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "StormcatFactory" },
+  { "id": 2, "name": "PanthrakFactory" },
+  { "id": 3, "name": "LynxusFactory" },
+  { "id": 4, "name": "CougaroFactory" },
+  { "id": 5, "name": "TigertronFactory" },
+  { "id": 6, "name": "LionocFactory" },
+  { "id": 7, "name": "PatrolStation" },
+  { "id": 8, "name": "NanoRepairStation" },
+  { "id": 9, "name": "FieldHeadquarters" },
+  { "id": 10, "name": "ArtileryCannon" },
+  { "id": 11, "name": "TurretEmplacement" }
+]

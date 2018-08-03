@@ -1,0 +1,19 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "All" },
+  { "id": 1000, "name": "Fear" },
+  { "id": 1001, "name": "Stun" },
+  { "id": 1002, "name": "Blind" },
+  { "id": 1003, "name": "Confused" },
+  { "id": 1004, "name": "Immobilized" },
+  { "id": 1005, "name": "Stained" },
+  { "id": 2000, "name": "Wounded" },
+  { "id": 2001, "name": "Unaware" },
+  { "id": 2002, "name": "Stealthed" },
+  { "id": 2010, "name": "ForcedWander" },
+  { "id": 2011, "name": "ForcedRandomMove" },
+  { "id": 2012, "name": "ForcedRandomFace" },
+  { "id": 2015, "name": "ForcedWeaponsFire" },
+  { "id": 3000, "name": "Knockbacked" },
+  { "id": 10000, "name": "CoolantCat" }
+]

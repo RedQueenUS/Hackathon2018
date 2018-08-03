@@ -1,0 +1,23 @@
+[
+  { "id": -1, "name": "Invalid" },
+  { "id": 0, "name": "Trunk" },
+  { "id": 2, "name": "RightShoulder" },
+  { "id": 3, "name": "LeftShoulder" },
+  { "id": 4, "name": "Utility1" },
+  { "id": 5, "name": "Utility2" },
+  { "id": 6, "name": "Utility3" },
+  { "id": 7, "name": "Utility4" },
+  { "id": 8, "name": "Utility5" },
+  { "id": 9, "name": "RightWeaponPrimary" },
+  { "id": 10, "name": "RightWeaponSecondary" },
+  { "id": 11, "name": "LeftWeaponPrimary" },
+  { "id": 12, "name": "LeftWeaponSecondary" },
+  { "id": 13, "name": "Head" },
+  { "id": 15, "name": "Chest" },
+  { "id": 17, "name": "Back" },
+  { "id": 12, "name": "Fang1" },
+  { "id": 12, "name": "Fang2" },
+  { "id": 12, "name": "Fang3" },
+  { "id": 12, "name": "Fang4" },
+  { "id": 12, "name": "Fang5" }
+]

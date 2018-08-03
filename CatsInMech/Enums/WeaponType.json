@@ -1,0 +1,16 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 6, "name": "Laser" },
+  { "id": 8, "name": "Rocket" },
+  { "id": 9, "name": "Shield" },
+  { "id": 12, "name": "All" },
+  { "id": 20, "name": "SabotCannon" },
+  { "id": 21, "name": "Muzzler" },
+  { "id": 22, "name": "Railgun" },
+  { "id": 23, "name": "PlasmaCarbine" },
+  { "id": 24, "name": "Mortar" },
+  { "id": 26, "name": "FlakThrower" },
+  { "id": 27, "name": "Chaingun" },
+  { "id": 28, "name": "Incinerator" },
+  { "id": 1000, "name": "Healing" }
+]

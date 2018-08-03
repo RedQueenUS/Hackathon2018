@@ -1,0 +1,9 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 10, "name": "Mech" },
+  { "id": 20, "name": "Turret" },
+  { "id": 30, "name": "Wall" },
+  { "id": 40, "name": "Battery" },
+  { "id": 50, "name": "Secret" },
+  { "id": 60, "name": "Factory" }
+]

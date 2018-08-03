@@ -1,0 +1,7 @@
+[
+  { "id": 0, "name": "InstantComplete" },
+  { "id": 1, "name": "UserCompleted" },
+  { "id": 2, "name": "NotImplemented__NoInputPopUp" },
+  { "id": 3, "name": "NotImplemented__InputPopUp" },
+  { "id": 4, "name": "Silent" }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": 111, "name": "Basic1" },
+  { "id": 121, "name": "Basic2" },
+  { "id": 122, "name": "Basic3" },
+  { "id": 112, "name": "Basic4" },
+  { "id": 223, "name": "Advanced1" },
+  { "id": 213, "name": "Advanced2" },
+  { "id": 314, "name": "Advanced3" },
+  { "id": 324, "name": "Superior1" },
+  { "id": 325, "name": "Superior2" },
+  { "id": 410, "name": "Universal_Epic" }
+]

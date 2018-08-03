@@ -1,0 +1,6 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "OneStar" },
+  { "id": 2, "name": "TwoStars" },
+  { "id": 3, "name": "ThreeStars" }
+]

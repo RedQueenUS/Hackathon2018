@@ -1,0 +1,8 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "Basic" },
+  { "id": 2, "name": "Advanced" },
+  { "id": 3, "name": "Superior" },
+  { "id": 4, "name": "Epic" },
+  { "id": 100, "name": "All" }
+]

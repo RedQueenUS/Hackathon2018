@@ -1,0 +1,9 @@
+[
+  { "id": 0, "name": "Campaign" },
+  { "id": 1, "name": "Base" },
+  { "id": 2, "name": "Event" },
+  { "id": 4, "name": "Adhoc" },
+  { "id": 8, "name": "Pvp" },
+  { "id": 1024, "name": "None" },
+  { "id": 2048, "name": "Any" }
+]

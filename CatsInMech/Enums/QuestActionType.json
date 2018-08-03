@@ -1,0 +1,10 @@
+[
+  { "id": 0, "name": "None" },
+  { "id": 1, "name": "PVPMission" },
+  { "id": 2, "name": "CampaignMission" },
+  { "id": 3, "name": "UpgradeItem" },
+  { "id": 4, "name": "OpenMechbox" },
+  { "id": 5, "name": "UpgradeBuilding" },
+  { "id": 7, "name": "PurchaseMechGuard" },
+  { "id": 8, "name": "Tutorial" }
+]
