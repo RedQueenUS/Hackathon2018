@@ -10,6 +10,14 @@ This repository contains game data and art assets for the games participating in
 
 ### A. Absolutely.
 
+### Q. What dimensions should a Rune be?
+
+### A. Landscape: `1200 x 675` Portrait: `675 x 1200`.
+
+## Red Queen's RDK
+
+[Red Queen's Rune Development Kit (RDK)](https://github.com/RedQueenUS/RDK) is a growing frame work based on [React](https://reactjs.org/) and [Redux](https://redux.js.org/).
+
 
 ## Slate API
 
