@@ -6,8 +6,9 @@ This repository contains game data and art assets for the games participating in
 
 ## FAQ
 
-Q. Can I create something for a game that is not represented here?
-A. Absolutely.
+### Q. Can I create something for a game that is not represented here?
+
+### A. Absolutely.
 
 
 ## Slate API
