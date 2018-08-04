@@ -25,7 +25,7 @@ Portrait: `675 x 1200`
 
 ## Slate API
 
-For today's even, we have provided early access to an API actively under development. Slate API is designed to help Runecrafters handle things like storing user sessions in the cloud, and creating shareable pieces of content for creating rich experiences.
+For today's event, we have provided early access to an API actively under development. Slate API is designed to help Runecrafters handle things like storing user sessions in the cloud, and creating shareable pieces of content for creating rich experiences.
 
 ### Red Queen's Slate API v1.0beta
 
@@ -42,6 +42,7 @@ POST https://api.redqueen.us/v1/slate
     "isPublic": true
 }
 ```
+Note: `data` is a stringified JSON object, not a raw JSON object.
 
 ##### Add a new Counter object to persistent storage
 
@@ -53,6 +54,8 @@ POST https://api.redqueen.us/v1/counter
     "config": "{\"onlyMostRecent\": true}"
 }
 ```
+Note: `config` is a stringified JSON object, not a raw JSON object.
+
 
 ##### Add a new Event object to persistent storage
 
@@ -67,6 +70,7 @@ POST https://api.redqueen.us/v1/event
     "isMostRecent": true
 }
 ```
+Note: `value` is a stringified JSON object, not a raw JSON object.
 
 ##### Add or update a User's Session Slate object to persistent storage
 
@@ -79,6 +83,7 @@ PUT https://api.redqueen.us/v1/session/{runeId}/{userId}
     "isPublic": true
 }
 ```
+Note: `data` is a stringified JSON object, not a raw JSON object.
 
 ##### Get a User's Session Slate object from persistent storage
 
