@@ -6,13 +6,17 @@ This repository contains game data and art assets for the games participating in
 
 ## FAQ
 
-### Q. Can I create something for a game that is not represented here?
+### Q.
+Can I create something for a game that is not represented here?
+### A.
+Absolutely.
 
-### A. Absolutely.
+### Q.
+What dimensions should a Rune be?
+### A.
+Landscape: `1200 x 675`
 
-### Q. What dimensions should a Rune be?
-
-### A. Landscape: `1200 x 675` Portrait: `675 x 1200`.
+Portrait: `675 x 1200`
 
 ## Red Queen's RDK
 
