@@ -20,7 +20,7 @@ Portrait: `675 x 1200`
 
 ## Red Queen's RDK
 
-[Red Queen's Rune Development Kit (RDK)](https://github.com/RedQueenUS/RDK) is a growing frame work based on [React](https://reactjs.org/) and [Redux](https://redux.js.org/).
+[Red Queen's Rune Development Kit (RDK)](https://github.com/RedQueenUS/RDK) is a growing framework based on [React](https://reactjs.org/) and [Redux](https://redux.js.org/).
 
 
 ## Slate API
